@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola heroku";
+echo "Hola heroku (webhook)";
 
 ?>
