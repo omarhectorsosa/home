@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola mundo jenkins nuevo";
+echo "Hola mundo jenkins nuevo pipeline";
 
 ?>
